@@ -15,6 +15,7 @@ GND|GND|Ground|
 |DC|GPIO 2|Data/Command|
 |CS|GPIO 5|Chip Select|
 |BLK/BL|GPIO 22|Backlight (optional)|
+
 Search for a pinout diagram of the board which shows the GPI0 location
 
 ## PlatformIO Setup
