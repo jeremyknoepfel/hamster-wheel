@@ -24,4 +24,4 @@ Search for a pinout diagram of the board which shows the GPIO location
 3. Connect ESP32 Controller to PC
 4. Click on Upload to compile and upload the main.cpp to the ESP32
 5. Click on Alien in left VS Code toolbar then Miscellaneous > New Terminal
-6. Run: pio run --target uploadfs (make sure no serial monitor is running)
+6. Run `pio run --target uploadfs`to upload the GIF located in the data folder (make sure no serial monitor is running)
