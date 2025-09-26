@@ -1,11 +1,12 @@
 # Instructions
 
 ## What to buy
-- ESP32 Microcontroller
-- GC9A01 TFT Display (240x240px)
+- [ESP32 Microcontroller](https://a.aliexpress.com/_ExcwL9k)
+- [GC9A01 TFT Display (240x240px)](https://a.aliexpress.com/_EuVPvME)
 
 ## Wiring
 |GC9A01 Pin|ESP32 Pin|Description|
+|------|------|------|
 |VCC|3.3V|Power supply|
 GND|GND|Ground|
 |SCL/SCLK|GPIO 18|SPI Clock
