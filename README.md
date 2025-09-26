@@ -16,7 +16,7 @@ GND|GND|Ground|
 |CS|GPIO 5|Chip Select|
 |BLK/BL|GPIO 22|Backlight (optional)|
 
-Search for a pinout diagram of the board which shows the GPI0 location
+Search for a pinout diagram of the board which shows the GPIO location
 
 ## PlatformIO Setup
 1. Install PlatformIO Visual Studio Code Extension
