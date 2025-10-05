@@ -25,3 +25,12 @@ Search for a pinout diagram of the board which shows the GPIO location
 4. Click on Upload to compile and upload the main.cpp to the ESP32
 5. Click on Alien in left VS Code toolbar then Miscellaneous > New Terminal
 6. Run `pio run --target uploadfs`to upload the GIF located in the data folder (make sure no serial monitor is running)
+
+## Print model parts
+
+All parts can be found on Makerworld: https://makerworld.com/de/models/1859297-desk-hamster
+Or use the stl files in the github repo
+
+- Tray
+- Cage
+- Wheel
